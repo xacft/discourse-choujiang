@@ -1,0 +1,13 @@
+zh_CN:
+  raffle:
+    permission_denied: "您没有权限设置抽奖"
+    raffle_set_up: "抽奖已设置！将在 %{draw_time} 自动开奖"
+    draw_complete: "抽奖结果已公布！"
+    winners_announcement: "🎉 抽奖结果公布！恭喜获奖用户：%{winner_tags}\n\n> 奖品将在3日内发放，请留意私信"
+
+  js:
+    raffle:
+      set_raffle: "设置回帖抽奖"
+      prize_count: "奖品数量"
+      draw_time: "开奖时间"
+      confirm_set: "确认设置"
